@@ -1,0 +1,6 @@
+
+return {
+  {
+    "yegappan/mru"
+  },
+}
